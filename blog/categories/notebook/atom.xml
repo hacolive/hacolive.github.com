@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Notebook | hacolive]]></title>
+  <link href="http://hacolive.github.com/blog/categories/notebook/atom.xml" rel="self"/>
+  <link href="http://hacolive.github.com/"/>
+  <updated>2012-05-29T16:12:19+09:00</updated>
+  <id>http://hacolive.github.com/</id>
+  <author>
+    <name><![CDATA[hacolive works]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[hacolive is beautiful]]></title>
+    <link href="http://hacolive.github.com/blog/2012/05/28/hacolive-is-beautiful/"/>
+    <updated>2012-05-28T20:49:00+09:00</updated>
+    <id>http://hacolive.github.com/blog/2012/05/28/hacolive-is-beautiful</id>
+    <content type="html"><![CDATA[<h1>Octopressに入れ替えしました</h1>
+
+<p>やっぱ、こう自作もいいんだけどすでにある素晴らしいものを
+使ったほうがいいかなーと思ったので。</p>
+
+<p>hacoliveをよろしくお願いいたします。</p>
+]]></content>
+  </entry>
+  
+</feed>
